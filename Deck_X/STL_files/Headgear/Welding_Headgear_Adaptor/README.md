@@ -1,5 +1,5 @@
 # Welding Headgear Adaptor 
-These files help use a welding headgear with the Deck X. They were mainly designed by Juraj Vincur, I added the rail attachment mechanism onto the existing Deck X brake housing.
+These files help use a welding headgear with the Deck X. This is particularly helpful if you have a smaller head, as the Miller Gen II mechanism used in the Deck X does not tighten up _that_ much. They were mainly designed by Juraj Vincur, I added the rail attachment mechanism onto the existing Deck X brake housing.
 
 ## What to print
 Everything twice, but flip on the x-axis the brake housing, brake cover, and mount. (denoted with \_L in their names)

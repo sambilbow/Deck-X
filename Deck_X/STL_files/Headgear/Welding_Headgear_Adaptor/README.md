@@ -13,7 +13,3 @@ Everything twice, but flip on the x-axis the brake housing, brake cover, and mou
 
 ## What to buy 
 The headgear I used: [Bolle Adgustable Headgear for Flash Helmet](https://www.amazon.co.uk/Boll%C3%A9-Adjustable-Headgear-Flash-Helmet/dp/B01GH48KZE/ref=asc_df_B01GH48KZE/?tag=googshopuk-21&linkCode=df0&hvadid=218100548040&hvpos=&hvnetw=g&hvrand=12668640904651476154&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1006661&hvtargid=pla-350204018578&psc=1&th=1&psc=1)
-
-## How to assemble
-
-[![Assembly video](thumbnail.png)](https://www.youtube.com/ "") (coming soon)

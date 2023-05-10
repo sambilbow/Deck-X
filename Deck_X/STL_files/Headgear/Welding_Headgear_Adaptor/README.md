@@ -16,7 +16,7 @@ Additionally, you will need the brake_L/R from the original Deck X .stl files.
 The headgear I used: Bollé Adjustable Headgear for Flash Helmet [[Amazon]](https://www.amazon.co.uk/Boll%C3%A9-Adjustable-Headgear-Flash-Helmet/dp/B01GH48KZE/) [[eBay]](https://www.ebay.co.uk/p/4002443247)
 
 ## Explanation Video
-![Link to Youtube Video](img/video_thumbnail.png)
+[![Link to Youtube Video](img/video_thumbnail.png)](https://www.youtube.com/watch?v=CDzZIbc1XXA)
 
 ## Assembly Images
 

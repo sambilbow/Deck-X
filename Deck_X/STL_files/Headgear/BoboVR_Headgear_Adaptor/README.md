@@ -4,7 +4,9 @@ These allow for the use of the BoboVR M2 headgear with the Deck X.
 Designed and shared by Noah Zerkin:
 > Adapters for a relatively inexpensive Bobo clone / derivative. Had to cut and grind down the slide receivers on that headgear. Want to make one more tweak tomorrow and will post. Ergonomics aren’t bad, even without the foam forehead pad that’s missing from this one. Adjustability isn’t as smooth or clever as FLZero’s, but there’s actually a little more of it in terms of vertical repositioning, and slides out at least far enough to accommodate my glasses.
 
--- @noazark | Project North Star Discord Server | [#3d-printing](https://discord.com/channels/456107915514871828/456857961344532492/1007685576348151900)  |  August 2022
+<div align="right"><i>
+@noazark, August 2022 | Project North Star Discord Server | <a href="https://discord.com/channels/456107915514871828/456857961344532492/1007685576348151900">#3d-printing</a>
+</i></div>
 
 ## What to print
 `BoboAdapterL.stl`, for the left side, then again but flip on the x-axis for the right side.
